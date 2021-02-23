@@ -17,7 +17,7 @@ class noteTableViewCell: UITableViewCell {
     @IBOutlet weak var shadowView: UIView!
     @IBOutlet weak var noteNameLabel: UILabel!
     @IBOutlet weak var noteDescriptionLabel: UILabel!
-    
+    ////
     @IBOutlet weak var noteCategory: UILabel!
     @IBOutlet weak var noteImageView: UIImageView!
     @IBOutlet weak var datelbl: UILabel!
