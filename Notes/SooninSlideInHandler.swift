@@ -2,7 +2,7 @@
 //  SooninSlideInHandler.swift
 //  Notes
 //
-//  Created by Farzaad on 2019-11-13.
+//  Created by Nayna on 2019-11-13.
 //  Copyright © 2019 Apple Developer. All rights reserved.
 //
 

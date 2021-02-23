@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Notes
 //
-//  Created by Farzaad on 6/11/19.
+//  Created by Nayna on 6/11/19.
 //  Copyright © 2019 Apple Developer. All rights reserved.
 //
 

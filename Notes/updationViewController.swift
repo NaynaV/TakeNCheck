@@ -2,7 +2,7 @@
 //  updationViewController.swift
 //  Notes
 //
-//  Created by Farzaad Goiporia on 2019-11-15.
+//  Created by Nayna Goiporia on 2019-11-15.
 //  Copyright © 2019 Apple Developer. All rights reserved.
 //
 
